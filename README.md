@@ -6,6 +6,7 @@ Este es el repositorio que usaremos para guiar la "Excursión a Haskell" que vam
 
 ## Notas
 
+* Software: https://www.haskell.org/get-started/
 * Libro de la excursión: https://learnyouahaskell.com/
 
 ## Etapas
